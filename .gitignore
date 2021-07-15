@@ -1,0 +1,34 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib 
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+*debug.test
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+bufbuild-demo
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+.vscode/
+
+# project
+*.cert
+*.key
