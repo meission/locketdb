@@ -4,10 +4,10 @@
 ### 项目介绍
 
 > 1. 包装pure Go kv系统 统一接口
-> 2. 使用方式调整,类似于"database/sql"
+> 2. 使用方式,类似于"database/sql"
 
 
-### 使用方式
+### 使用样例
 
 ```
     package main
